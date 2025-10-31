@@ -1,2 +1,2 @@
-pyTelegramBotAPI==4.16.1
-pytz==2024.1
+pyrogram==2.0.106
+tgcrypto
